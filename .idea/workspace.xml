@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3e68d12-f32c-40fe-abe5-2183bcff8544" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MyRescue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/.id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/platforms" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/release" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="a3e68d12-f32c-40fe-abe5-2183bcff8544" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1024" />
@@ -98,12 +81,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555643068699</updated>
-      <workItem from="1555643070480" duration="2225000" />
+      <workItem from="1555643070480" duration="2739000" />
     </task>
+    <task id="LOCAL-00001" summary="re">
+      <created>1555645960568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555645960569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2225000" />
+    <option name="totallyTimeSpent" value="2739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="768" extended-state="0" />
@@ -129,6 +120,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="re" />
+    <option name="LAST_COMMIT_MESSAGE" value="re" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
